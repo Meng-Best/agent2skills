@@ -14,7 +14,18 @@
       "Bash(git init:*)",
       "Bash(git remote add:*)",
       "Bash(git fetch:*)",
-      "Bash(Remove-Item:*)"
+      "Bash(Remove-Item:*)",
+      "Bash(git branch:*)",
+      "Bash(git stash pop:*)",
+      "Bash(git stash drop:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl:*)",
+      "Bash(mkdir:*)",
+      "WebSearch",
+      "WebFetch(domain:ai.google.dev)",
+      "Bash(python:*)",
+      "Bash(git reset:*)"
     ]
   }
 }
