@@ -25,7 +25,8 @@
       "WebSearch",
       "WebFetch(domain:ai.google.dev)",
       "Bash(python:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git -C \"D:/Desktop/claude_acc\" add:*)"
     ]
   }
 }
